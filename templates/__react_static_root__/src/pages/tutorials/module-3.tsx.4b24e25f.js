@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{82:function(e,t,n){"use strict";n.r(t);var a=n(0),i=n.n(a),l=n(168),r=n(167);t.default=function(){return i.a.createElement("div",{id:"tutorials/module-4/"},i.a.createElement(r.a,{number:3,title:"Creative Basics",videoId:"UXGkx9Z-BIQ",nextNumber:4,nextTitle:"Module 4 title"}),i.a.createElement(l.a,null))}}}]);
