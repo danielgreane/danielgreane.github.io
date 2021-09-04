@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install
-        run: yarn global add react-static && yarn add @babel/runtime
+        run: node -v && yarn global add react-static && yarn add @babel/runtime
       - name: Build
         run: yarn build
       - name: Deploy
